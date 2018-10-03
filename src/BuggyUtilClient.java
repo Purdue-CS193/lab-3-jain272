@@ -1,4 +1,3 @@
-
 public class BuggyUtilClient {
     public static void main(String[] args) {
         // First test case in Main
@@ -7,6 +6,7 @@ public class BuggyUtilClient {
                 ", last = " + "\"Flannery\"");
         System.out.println("Out: " +
         StringUtils.makePurdueUsername("Sean", "Flannery"));
+        //This is an example of cloning and committing.
     }
 }
 
