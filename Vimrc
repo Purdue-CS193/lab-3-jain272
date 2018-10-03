@@ -5,3 +5,4 @@ set softtabstop=4
 set showcmd
 set wildmenu
 set cursor line
+set bg=dark
